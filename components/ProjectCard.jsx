@@ -1,6 +1,6 @@
 import React from "react";
 
-import Link from "next/Link";
+import Link from "next/link";
 import Image from "next/image";
 import { Card, CardHeader } from "./ui/card";
 import { Github, Link2Icon } from "lucide-react";
