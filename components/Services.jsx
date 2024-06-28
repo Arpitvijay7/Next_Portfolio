@@ -12,21 +12,22 @@ const servicesData = [
     icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
     title: "Web Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, ratione.Modi soluta ad dolore vitae alias minima. Exercitationem, corporis numquam",
+      "Our web design services are focused on creating visually appealing and user-friendly websites. We ensure your website not only looks great but also provides a seamless user experience.",
   },
   {
     icon: <Blocks size={72} strokeWidth={0.8} />,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, ratione.Modi soluta ad dolore vitae alias minima. Exercitationem, corporis numquam",
+      "We offer comprehensive web development services to build robust and scalable websites. Our team utilizes the latest technologies to ensure your website performs optimally across all devices.",
   },
   {
     icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
-    title: "App development",
+    title: "App Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, ratione.Modi soluta ad dolore vitae alias minima. Exercitationem, corporis numquam",
+      "Our app development services cater to both iOS and Android platforms. We specialize in creating high-performance, feature-rich mobile applications tailored to meet your business needs.",
   },
 ];
+
 const Services = () => {
   return (
     <section className="mb-12 xl:mb-36">
